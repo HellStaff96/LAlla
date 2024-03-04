@@ -140,7 +140,6 @@ class Player(MainHero):
             screen.blit(self.image, (self.rect.x, self.rect.y))
             self.count = 0
 
-
 '''Персонажи'''
 
 # hero = Player('images/hero/right/PHR_1.png', 100, 300, 90, 90, 8)
